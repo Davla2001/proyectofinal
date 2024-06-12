@@ -4,7 +4,7 @@ export const datos=[
           "fecha_pedido": "04\/01\/2024",
           "id_producto": 1,
           "id_proveedor": 1,
-          "cantidad_solicitada": 10,
+          "cantidad_solicitada": 15,
           "estado": "Entregado",
           "fecha_surtido": "04\/09\/2024",
           "costo_pedido": 850
